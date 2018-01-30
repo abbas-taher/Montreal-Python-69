@@ -1,9 +1,8 @@
-# Montreal Python 69
+# Montreal Python 69 - Tutorial
 ## Title: Aggregating Subscriber's Interest/Likes
 
 ### Presented on Monday Feb 5th 2018 (using Jupyter Notebook)
-### Tutorial: 3 Methods to Aggregate Subscriber's Interest 
-### Using Python & PySpark Transformations: 
+### Three Methods to Aggregate Subscriber's Interest 
 
   1- Using Python Dictionary
 
